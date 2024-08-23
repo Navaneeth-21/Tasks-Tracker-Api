@@ -19,8 +19,8 @@ A Microservice Application which is used to track the users tasks/exercises.
    
    ```sh
    npm install
-   
-4. Start the server
+4. Replace the MONGOURI with your mongodb connection string in .env file   
+5. Start the server
 
    ```sh
    npm run start
