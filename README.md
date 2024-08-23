@@ -24,6 +24,7 @@ A Microservice Application which is used to track the users tasks/exercises.
 
    ```sh
    npm run start
+   ```
 
 
 
