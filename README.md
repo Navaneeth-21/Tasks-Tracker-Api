@@ -5,6 +5,7 @@ A Microservice Application which is used to track the users tasks/exercises.
     - GET REQUEST - /api/users - to get all the users
     - POST REQUEST - /api/users/:_id/exercises - to create the users exercises
     - GET REQUEST - /api/users/:_id/logs - all the exercises that belong to a specifc user
+- You'll get the responses in the json format.
 - There will be two models : exercises schema(which consists of information about exercises) and user schema(users info)
 
 
